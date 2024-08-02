@@ -1,0 +1,1 @@
+export { GanttDiagram } from './GanttDiagram'
