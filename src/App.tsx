@@ -1,4 +1,4 @@
-import GanttDiagram from "./entities/GanttDiagram/GanttDiagram"
+import { GanttDiagram } from "./entities/GanttDiagram"
 import './index.css'
 
 function App () {

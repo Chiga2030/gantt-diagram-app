@@ -36,7 +36,7 @@ const ruRU: GanttLocale = {
   today: 'Сегодня',
 }
 
-const GanttDiagram = (): JSX.Element => {
+export const GanttDiagram = (): JSX.Element => {
   return (
     <div className={ styles.wrapper }>
       <RcGantt
@@ -61,6 +61,3 @@ const GanttDiagram = (): JSX.Element => {
     </div>
   )
 }
-
-
-export default GanttDiagram
