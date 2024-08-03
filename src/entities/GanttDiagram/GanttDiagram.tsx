@@ -1,4 +1,4 @@
-import styles from './GanttDiagram.module.css'
+import * as styles from './GanttDiagram.module.css'
 import dayjs from 'dayjs'
 import ru from 'dayjs/locale/ru'
 import RcGantt from 'rc-gantt'
